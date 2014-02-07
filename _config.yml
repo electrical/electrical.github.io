@@ -1,0 +1,4 @@
+name: Puppet stuff
+markdown: redcarpet
+pygments: true
+permalink: pretty
